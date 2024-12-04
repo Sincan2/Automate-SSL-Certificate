@@ -1,5 +1,3 @@
-Berikut adalah contoh **README.md** untuk repository GitHub Anda di https://github.com/Sincan2, berdasarkan skrip yang telah Anda buat (`qe3.sh`) dan fungsinya.
-
 ```markdown
 # Automate SSL Certificate with Certbot and DigitalOcean API
 
